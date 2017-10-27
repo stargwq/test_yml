@@ -10,11 +10,9 @@ flow:
          FLOW_WORKSPACE: "echo step"
          FLOW_VERSION: "echo step version"
        isAllowFailure: true
-       sleep 10
-       script: "echo 1"
+       script: "sleep 10 & echo 1"
 
       
      - name: step2
        isAllowFailure: false
-       sleep 5
-       script: "echo 2"
+       script: "sleep 5 & echo 2"
