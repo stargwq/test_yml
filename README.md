@@ -1,6 +1,5 @@
 # test_yml
 
 aaa
-asdsa
-sas
+asds
 dsa
