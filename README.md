@@ -1,5 +1,4 @@
 # test_yml
 
 aaa
-asa
-sda
+as
